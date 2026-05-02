@@ -17,7 +17,7 @@ This project trains a CNN to perform **6-class image classification** on a custo
 
 ## Project Structure
 dice-face-classifier-cnn/
-- DSA8021_ML_practical_aamnaarif_40503414.ipynb 
+- DSA8021_ML_practical_aamnaarif.ipynb 
 - data.csv                                      (Training/validation data)
 - test.csv                                      (Held-out test data)
 - best_dice_cnn_model.pth                       (Saved model weights (after training))
